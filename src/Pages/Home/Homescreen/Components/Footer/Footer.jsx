@@ -1,5 +1,6 @@
 import { Link } from "react-scroll";
 import React from "react";
+import './Footer.css';
 
 function Footer() {
   return (
@@ -72,7 +73,7 @@ function Footer() {
                 Testimonials
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link
                 activeClass="navbar--active-content"
                 spy={true}
@@ -84,14 +85,14 @@ function Footer() {
               >
                 Contact
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
         <div className="footer--social--icon">
           <ul>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/guigmsouza"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -114,7 +115,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/gms4"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -137,7 +138,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://drive.google.com/file/d/1UbRGspje9QXYXR-lngUld5aDr4pk15hh/view?usp=share_link"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -157,7 +158,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made by Guilherme Souza</p>
+        <p className="footer--content">Made by Guilherme Souza.</p>
       </div>
     </footer>
   );

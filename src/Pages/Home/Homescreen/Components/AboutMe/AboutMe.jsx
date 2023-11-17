@@ -1,3 +1,5 @@
+import './AboutMe.css';
+
 export default function AboutMe() {
     return (
       <section id="AboutMe" className="about--section">
@@ -6,7 +8,7 @@ export default function AboutMe() {
         </div>
         <div className="hero--section--content--box about--section--box">
           <div className="hero--section--content">
-            <p className="section--title">About</p>
+            {/* <p className="section--title">About</p> */}
             <h1 className="skills-section--heading">About Me</h1>
             <p className="hero--section-description">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem

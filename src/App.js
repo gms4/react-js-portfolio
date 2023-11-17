@@ -1,7 +1,8 @@
 import './App.css';
+import './Pages/Home/Homescreen/Components/Responsive.css';
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from './Pages/Home/Navbar';
+import Navbar from './Pages/Home/Homescreen/Components/NavBar/Navbar';
 import Home from './Pages/Home/Homescreen';
 
 

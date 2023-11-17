@@ -9,19 +9,43 @@
         {
             "id": 2,
             "src": "./img/tag-1.png",
-            "title": "Back-End",
+            "title": "Swift",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
         },
         {
             "id": 3,
             "src": "./img/feather-pen-2.png",
-            "title": "UI & UX Design",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "title": "Web Development",
+            "description": "Experience with JavaScript, ReactJS, AngularJS, TypeScript and NodeJS"
         },
         {
             "id": 4,
             "src": "./img/feather-pen-1.png",
             "title": "Webflow Developer",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+            "id": 5,
+            "src": "./img/feather-pen-1.png",
+            "title": "Data Engineering",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+            "id": 6,
+            "src": "./img/feather-pen-1.png",
+            "title": "Data Visualization",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+            "id": 7,
+            "src": "./img/feather-pen-1.png",
+            "title": "Git/Github",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+            "id": 8,
+            "src": "./img/feather-pen-1.png",
+            "title": "Data Engineering",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
         }
     ],
@@ -70,8 +94,8 @@
             "count": 5,
             "src": "./img/avatar-image-2.png",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-            "author_name": "Kathryn Murphy",
-            "author_designation": "McDonald's"
+            "author_name": "Kathryn",
+            "author_designation": "Starbucks"
         }
     ]
 }
