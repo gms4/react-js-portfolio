@@ -26,12 +26,6 @@
   .testimonial--section--card:hover {
     border-bottom: 4px solid var(--primary);
   }
-  
-  .testimonial--section--card--reviews {
-    display: flex;
-    align-items: flex-start;
-    gap: 5.33px;
-  }
   .testimonial--section--card--author--detail {
     display: flex;
     align-items: center;

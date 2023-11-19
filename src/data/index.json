@@ -2,100 +2,119 @@
     "skills": [
         {
             "id": 1,
-            "src": "./img/product-chain-1.png",
-            "title": "Front-End",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "src": "./img/fullstack.png",
+            "title": "Fullstack Development",
+            "description": "Developed applications with various JavaScript and TypeScript frameworks, like React, Angular, and Node."
         },
         {
             "id": 2,
-            "src": "./img/tag-1.png",
+            "src": "./img/swift.png",
             "title": "Swift",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "description": "Almost 2 years developing apps for iOS using Swift and implementing software architecture patterns like MVC and MVVM."
         },
         {
             "id": 3,
-            "src": "./img/feather-pen-2.png",
-            "title": "Web Development",
-            "description": "Experience with JavaScript, ReactJS, AngularJS, TypeScript and NodeJS"
+            "src": "./img/git.png",
+            "title": "Version Control",
+            "description": "Constant use of Git, managing changes and following versioning patterns in various projects and applications."
         },
         {
             "id": 4,
-            "src": "./img/feather-pen-1.png",
-            "title": "Webflow Developer",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "src": "./img/database.png",
+            "title": "Data Engineering",
+            "description": "Understanding of data modeling and engineering with OracleDB, PostgresDB, Transact-SQL, SQL Server and MongoDB."
         },
         {
             "id": 5,
-            "src": "./img/feather-pen-1.png",
-            "title": "Data Engineering",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "src": "./img/data-visualization.png",
+            "title": "Data Visualization",
+            "description": "Knowlegde in data visualization and analysis using Python and its frameworks, such as Pandas, Matplotlib and others." 
         },
         {
             "id": 6,
-            "src": "./img/feather-pen-1.png",
-            "title": "Data Visualization",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
-        },
-        {
-            "id": 7,
-            "src": "./img/feather-pen-1.png",
-            "title": "Git/Github",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
-        },
-        {
-            "id": 8,
-            "src": "./img/feather-pen-1.png",
-            "title": "Data Engineering",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+            "src": "./img/agile.png",
+            "title": "Agile Methodologies",
+            "description": "Experience with agile methodologies such as CBL, Scrum, Kanban, Lean, XP and Pair Programming."
         }
     ],
     "portfolio": [
         {
             "id": 1,
             "src": "./img/placeholder-image.png",
-            "title": "Ahuse",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-            "link": "View In Github"
+            "title": "Witchie",
+            "description": "Witchie is a game that defies the player's abilities to solve complex puzzles while immersing themselves on the Witchie's lore. I worked as Front-End and Game developer in SwiftUI, following the MVVM architecture, and implemented and improved versioning and conflict management skills in GitHub.",
+            "links": [
+                {
+                    "text": "Download on App Store",
+                    "url": "https://apps.apple.com/br/app/witchie/id6454296859?l=en-GB"
+                },
+                {
+                    "text": "View In Github",
+                    "url": "https://github.com/gms4"
+                },
+                {
+                    "text": "Read our Medium about it!",
+                    "url": "https://github.com/gms4"
+                }
+            ]
         },
         {
             "id": 2,
             "src": "./img/placeholder-image-1.png",
-            "title": "App Dashboard",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-            "link": "View In Github"
+            "title": "EyeChat",
+            "description": "EyeChat is a conversation app designed for people with physical limitations. It uses eye tracking to generate user interactions solely through the detection of the user's eye movements. I worked as Front-End Developer in SwiftUI, following the MVVM architecture, and also as a PM, implementing agile methodologies throughout the whole project",
+            "links": [
+                {
+                    "text": "View In Github",
+                    "url": "https://github.com/gms4"
+                },
+                {
+                    "text": "Read our Medium about it!",
+                    "url": "https://github.com/gms4"
+                }
+            ]
         },
         {
             "id": 3,
             "src": "./img/placeholder-image-2.png",
-            "title": "Easy Rentn",
+            "title": "Oi, Dindo!",
             "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-            "link": "View In Github"
+            "links": [
+                {
+                    "text": "View In Github",
+                    "url": "https://github.com/gms4"
+                },
+                {
+                    "text": "Download on App Store",
+                    "url": "https://apps.apple.com/br/app/witchie/id6454296859?l=en-GB"
+                }
+            ]
         }
     ],
     "testimonial": [
         {
             "id": 1,
             "count": 5,
-            "src": "./img/avatar-image.png",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-            "author_name": "Dianne Russel",
-            "author_designation": "Starbucks"
+            "src": "./img/mv.png",
+            "description": "Working closely with Guilherme at the Apple Developer Academy was a privilege. He stands out as a proactive developer, always willing to take on responsibilities and support the team's needs. His eagerness to share knowledge extends beyond his team, benefiting everyone who seeks his guidance. Pair programming with him during the project solidified my programming fundamentals with his valuable support. Besides his active contribution, Guilherme isn't hesitant to seek help when needed, always eager to learn and find solutions. His demeanor fosters a collaborative, enriching, and positive work environment. I have complete confidence that his dedication, technical skills, and readiness for challenges make him a valuable asset to any team.",
+            "author_name": "Maria Vitória Bandeira",
+            "author_designation": "UI/UX Designer and Researcher"
         },
         {
             "id": 2,
             "count": 5,
-            "src": "./img/avatar-image-1.png",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-            "author_name": "Kristin Watson",
-            "author_designation": "Louis Vuitton"
+            "src": "./img/thales.png",
+            "description": "It's with great pleasure that I recommend Guilherme. I had the privilege of working with him on an TDD assignment in Swift, and he stood out as an exceptional team member, showing dedication, curiosity, and proactivity at every stage of the project. His expertise in code development was crucial in achieving the final result, and his creative and innovative contribution left a significant mark. Guilherme is also admired, respected, and beloved in our internship environment. His work, technical skills, and willingness to help others are recognized by everyone. I greatly admire Guilherme and he will surely continue to achieve success in his professional career. I recommend him without hesitation as a talented and valuable professional.",
+            "author_name": "Thales Fraga",
+            "author_designation": "Software and Game Developer"
         },
         {
             "id": 3,
             "count": 5,
-            "src": "./img/avatar-image-2.png",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
-            "author_name": "Kathryn",
-            "author_designation": "Starbucks"
+            "src": "./img/lana.png",
+            "description": "With fondness, I mention the latest project I participated in with Guilherme, where we built a MacOS app from its conception. Guilherme's light, comfortable, and non-violent communication was a crucial highlight for the project; his teamwork skills are valuable. In the context of this short-term project, requiring continuous deliveries, his mastery and agility with SwiftUI were a differential! The best part is being able to count on his active participation in all stages of the process, from refining the idea to creating and launching an MVP, resulting in a praised app! Guilherme demonstrated interdisciplinary skills, creativity, and commitment. I am confident that, faced with any proposed challenge, he will deliver an excellent result!",
+            "author_name": "Alana Ramos",
+            "author_designation": "Product Manager"
         }
     ]
 }

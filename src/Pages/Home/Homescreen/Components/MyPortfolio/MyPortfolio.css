@@ -46,6 +46,9 @@
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
   }
+  /* .portfolio--section--card:hover {
+    border-bottom: 4px solid var(--primary);
+  } */
   .portfolio--section--card--content {
     display: flex;
     padding: 32px;
@@ -64,6 +67,11 @@
     border-bottom: 1.33px solid var(--primary);
     padding: 10.6px;
     font-weight: 600;
+  }
+  .portfolio--link--button {
+    display: flex;
+    gap: 20px;
+    align-items: center; /* Para centralizar os itens verticalmente */
   }
   .portfolio--section--card:hover path {
     stroke: #006b6a;
