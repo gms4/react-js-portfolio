@@ -29,6 +29,9 @@
   .footer--items ul > li > a {
     text-decoration: none;
   }
+  .footer--items ul > li > a:hover {
+    border-bottom: 1.33px solid var(--primary);
+  }
   .footer--social--icon > ul {
     list-style: none;
     display: flex;

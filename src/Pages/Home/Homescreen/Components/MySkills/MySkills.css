@@ -31,10 +31,11 @@
     border-radius: 10.6px;
     background: var(--bg-shade);
     min-height: 250px;
-  }
-  .skills--section--card:hover {
     border-bottom: 4px solid var(--primary);
   }
+  /* .skills--section--card:hover {
+    border-bottom: 4px solid var(--primary);
+  } */
   .skills--section--card:hover  .skills--section--description {
     color: var(--darkblue);
   }

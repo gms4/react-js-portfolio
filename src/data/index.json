@@ -42,15 +42,11 @@
             "id": 1,
             "src": "./img/bruxinha.png",
             "title": "Witchie",
-            "description": "Witchie is a game that defies the player's abilities to solve complex puzzles while immersing themselves on the Witchie's lore. I worked as Front-End and Game developer in SwiftUI, following the MVVM architecture, and implemented and improved versioning and conflict management skills in GitHub.",
+            "description": "Witchie is a game for iPhone and iPad that defies the player's abilities to solve complex puzzles and master mechanics while immersing themselves on the Witchie's lore. I worked as Front-End and Game development in SwiftUI, following the MVVM architecture, and implemented and improved versioning and conflict management skills in GitHub.",
             "links": [
                 {
                     "text": "Download on App Store",
                     "url": "https://apps.apple.com/br/app/witchie/id6454296859?l=en-GB"
-                },
-                {
-                    "text": "View In Github",
-                    "url": "https://github.com/ergdln/witchie"
                 },
                 {
                     "text": "Read our Medium about it!",
@@ -78,7 +74,7 @@
             "id": 3,
             "src": "./img/vibefy.png",
             "title": "Vibefy",
-            "description": "Vibefy is an iPhone app that suggests bars and restaurants around the metropolitan region of Recife based on your Apple Music history, and it aims to recommend places that align with your mood at any moment. I worked in Front-End and data management, creating the model that compiles all restaurants and its informations.",
+            "description": "Vibefy is an iPhone app that suggests bars and restaurants around the metropolitan region of Recife based on your Apple Music history, and it aims to recommend places that align with your mood at any moment. I worked in Front-End development and data management, creating the model that compiles all restaurants and its informations.",
             "links": [
                 {
                     "text": "View In Github",

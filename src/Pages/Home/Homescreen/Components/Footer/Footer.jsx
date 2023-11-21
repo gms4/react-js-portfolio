@@ -16,7 +16,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="heroSection"
-                className="text-md"
+                className="navbar--content"
               >
                 Home
               </Link>
@@ -29,7 +29,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="mySkills"
-                className="text-md"
+                className="navbar--content"
               >
                 My Skills
               </Link>
@@ -42,7 +42,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="AboutMe"
-                className="text-md"
+                className="navbar--content"
               >
                 About Me
               </Link>
@@ -55,7 +55,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="MyPortfolio"
-                className="text-md"
+                className="navbar--content"
               >
                 Portfolio
               </Link>
@@ -68,7 +68,7 @@ function Footer() {
                 offset={-70}
                 duration={500}
                 to="testimonial"
-                className="text-md"
+                className="navbar--content"
               >
                 Testimonials
               </Link>
