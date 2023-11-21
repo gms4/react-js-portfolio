@@ -27,19 +27,19 @@ function Navbar() {
     }, []);
 
     useEffect(() => {
-        if (window.innerWidth <= 1200) {
+        if (window.innerWidth > 1200) {
             closeMenu;
         }
     }, []);
 
     return (
         <nav className={`navbar ${navActive ? "active" : ""}`}>
-            <a className={`nav__hamburguer ${navActive ? "active" : ""}`}
+            <a className={`nav__hamburger ${navActive ? "active" : ""}`}
             onClick={toggleNav}
             >
-                <span className="nav__hamburguer__line"></span>
-                <span className="nav__hamburguer__line"></span>
-                <span className="nav__hamburguer__line"></span>
+                <span className="nav__hamburger__line"></span>
+                <span className="nav__hamburger__line"></span>
+                <span className="nav__hamburger__line"></span>
             </a>
             <div className={`navbar--items ${navActive ? "active" : ""}`}>
             <ul>
@@ -115,7 +115,10 @@ function Navbar() {
                 </li>
           </ul>
             </div>
-            <a href="mailto:guigmsouza@gmail.com" className="btn btn-outline-primary">
+            <a 
+                href="mailto:guigmsouza@gmail.com" 
+                className="btn btn-outline-primary"
+            >
                 Contact Me
             </a>
         </nav>
