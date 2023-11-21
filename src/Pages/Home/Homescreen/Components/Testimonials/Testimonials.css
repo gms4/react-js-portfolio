@@ -31,6 +31,9 @@
     align-items: center;
     gap: 21.3px;
   }
+  .testimonial--section--card--author--feedback {
+    font-style: italic;
+  }
   .testimonial--author--name {
     font-weight: 600;
     color: var(--heading-color);

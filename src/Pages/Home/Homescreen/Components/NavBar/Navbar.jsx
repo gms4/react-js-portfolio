@@ -115,18 +115,9 @@ function Navbar() {
                 </li>
           </ul>
             </div>
-            <Link
-                onClick={closeMenu}
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                href="mailto:guigmsouza@gmail.com"
-                className="btn btn-outline-primary"
-            >
+            <a href="mailto:guigmsouza@gmail.com" className="btn btn-outline-primary">
                 Contact Me
-            </Link>
+            </a>
         </nav>
     );
 }

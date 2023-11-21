@@ -2,15 +2,15 @@
     "skills": [
         {
             "id": 1,
-            "src": "./img/fullstack.png",
-            "title": "Fullstack Development",
-            "description": "Developed applications with various JavaScript and TypeScript frameworks, like React, Angular, and Node."
-        },
-        {
-            "id": 2,
             "src": "./img/swift.png",
             "title": "Swift",
             "description": "Almost 2 years developing apps for iOS using Swift and implementing software architecture patterns like MVC and MVVM."
+        },
+        {
+            "id": 2,
+            "src": "./img/fullstack.png",
+            "title": "Fullstack Development",
+            "description": "Developed applications with various JavaScript and TypeScript frameworks, like React, Angular, and Node."
         },
         {
             "id": 3,
@@ -40,7 +40,7 @@
     "portfolio": [
         {
             "id": 1,
-            "src": "./img/placeholder-image.png",
+            "src": "./img/bruxinha.png",
             "title": "Witchie",
             "description": "Witchie is a game that defies the player's abilities to solve complex puzzles while immersing themselves on the Witchie's lore. I worked as Front-End and Game developer in SwiftUI, following the MVVM architecture, and implemented and improved versioning and conflict management skills in GitHub.",
             "links": [
@@ -50,43 +50,43 @@
                 },
                 {
                     "text": "View In Github",
-                    "url": "https://github.com/gms4"
+                    "url": "https://github.com/ergdln/witchie"
                 },
                 {
                     "text": "Read our Medium about it!",
-                    "url": "https://github.com/gms4"
+                    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7128381043534966784/"
                 }
             ]
         },
         {
             "id": 2,
-            "src": "./img/placeholder-image-1.png",
+            "src": "./img/eyechat.png",
             "title": "EyeChat",
             "description": "EyeChat is a conversation app designed for people with physical limitations. It uses eye tracking to generate user interactions solely through the detection of the user's eye movements. I worked as Front-End Developer in SwiftUI, following the MVVM architecture, and also as a PM, implementing agile methodologies throughout the whole project",
             "links": [
                 {
                     "text": "View In Github",
-                    "url": "https://github.com/gms4"
+                    "url": "https://github.com/gms4/eye-chat"
                 },
                 {
-                    "text": "Read our Medium about it!",
-                    "url": "https://github.com/gms4"
+                    "text": "Read our LinkedIn post about it!",
+                    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7115366768784662528/"
                 }
             ]
         },
         {
             "id": 3,
-            "src": "./img/placeholder-image-2.png",
-            "title": "Oi, Dindo!",
-            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "src": "./img/vibefy.png",
+            "title": "Vibefy",
+            "description": "Vibefy is an iPhone app that suggests bars and restaurants around the metropolitan region of Recife based on your Apple Music history, and it aims to recommend places that align with your mood at any moment. I worked in Front-End and data management, creating the model that compiles all restaurants and its informations.",
             "links": [
                 {
                     "text": "View In Github",
-                    "url": "https://github.com/gms4"
+                    "url": "https://github.com/matheus-vb/vibefy"
                 },
                 {
-                    "text": "Download on App Store",
-                    "url": "https://apps.apple.com/br/app/witchie/id6454296859?l=en-GB"
+                    "text": "Read our LinkedIn post about it!",
+                    "url": "https://www.linkedin.com/posts/beatriz-df%C3%A9rre_appledeveloperacademy-design-iosdev-activity-6980706078996992000-fr4a?utm_source=share&utm_medium=member_desktop"
                 }
             ]
         }
